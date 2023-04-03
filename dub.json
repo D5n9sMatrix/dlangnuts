@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"dependencies": {
+		"uninode": "~>0.3.1"
+	},
+	"description": "uni-node nuts",
+	"license": "MIT",
+	"name": "dlangnuts"
+}
