@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bolts": "1.7.0",
+		"silly": "1.0.2",
+		"uninode": "0.3.1"
+	}
+}
